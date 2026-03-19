@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "my-cafe-bot",
+  "private_key_id": "e02bbf2c32bfc2817b57902da6acd7791efe2f7b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIKTGDXo0xNgUF\nzeNrLRdk7T0ACzg7XrYzEaDtaO3efrr6UEcDCMXEE1/zVghZEulCJ3NjBU5/oUOB\nClp7TfA5ZbRd3+MD3lMlwBUNb7uESf7KNoIQs8zLEZ2rno4yV0rGkve7FsbXlyxV\nZrLjGcJDp1I6McJ6IgXNm358qGH994O41o2jIeIeWcmJIe4Beb4yMoUeQTqBJWnA\n8cf8kHxa6tfFRf+lUE58Fxz+zhhrZMxTXGHPFhofR8Uf/6jMRj1IoiUXehXUlAMb\n/JtOmQ99OZCQTQgIEM99vD71glZmxkPepCturcjz1cb4mzoAXiagw00NyahaDzY+\nFzJSsKuxAgMBAAECggEAD/uCEZxOJ9zJX+JFw3wRPyTWVxeOQOdaIw/ISsyzGa4C\n3hPk57Aeon5tje+TsREagQbHZuO4leZZjoc2HFxnzx143noPFXL+Lqh8xdrjHTgP\nWTQrBIxm0NwyO87oScrAlMSNdWnnLLXMe3E83XdkFKTaovzwK3JmBjnhSrDjSjUC\nL+7sylJQbTdTWYbqB704L5zvbwURpZL04Zya4kXlwlrA1I9+5LjWtZqAKdhyN+Ev\napH7/qE5eFzkgsbM/BwIC9OXJXVeckKtrP4fo2t4sFx0zMfq6tiSbVOmmFWBlFlx\n/1sQStDrAzATeqVmUTjt+bEA4gUSzrt6IGEHeIv3QQKBgQDj2FEI7JQVvupzhWz/\nI/jmnl6Bs1cS9S91Zmuox3Yc+6VMfXujWEjZFCzjBo9HsEDvTU23OFVVjm5b0av3\n+5FoYvrj4RrEk9PkTgjdUPlc3a0Ombq53p15p8onpyRT+8bEM+W+fjAFjhhB3Tbo\nakqKv+LR/mcQ/vmt7pLqMCrwSQKBgQDg5R1U5+jNbFAlZRgdv3Q5bSBTpi52qxfu\njZ8xm4EBe1OsSUqCcrX8NWs9ny46bo9gMORSmaDqc0idB+pT+AmaWK7KL9c5yhBN\nyLo625Hlmzyc6BrbTv9U9cn67t6skeNzTMPS8bQ4T9HWkqpf1y1t3OpVooogljcA\nOKnPna6wKQKBgQCRn61TVdnj+Czi/tFGVRh9VZUzsoshm8HkeDyxGCL+rTveIomG\nQiP1UrbJt2SWPimSiUb1prSrxSf12ZHfIlOycyjFwxcXsyAH2HRD98AZQbmdDlZQ\n+96MZdiH9YT7hH1q43ygfwh0VHheiGPSsjTIb5IqAz6el0i/iS8vLPAUuQKBgDSx\nGbU5/M6ckQ6h6AuYPufxjIBs0DgXkCzhW6oo0AoD1i/ooB9+NutXrL+sWw1vuAIG\nkohT3GLyDdJU928jD0TtgE549QliMX24CQIfTcipHYN50kkN8j76s48qhluSduMd\n2kfDP8Ft2jFW/bok1U0HVJQp2AkYiNxxaj/tpu85AoGAM02k5Lc5+F8gwYRQyJmJ\nhJCwQfeH1YOUMBQ/TpNhZ/U0jzsz9zMv4L8eyHs3W1PDb/TiiWdrlSpNnzjhcgG4\nV4GW/abIp2l1QkM30hkGbSXh0KvpOfeGLIPr3ieQC8L+5/3egZk82HzQJI7KdSE9\nLzX2bQczHlhAktudntbzmU8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cafe-bot-writer-86@my-cafe-bot.iam.gserviceaccount.com",
+  "client_id": "102374583387229679871",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cafe-bot-writer-86%40my-cafe-bot.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
