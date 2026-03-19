@@ -35,3 +35,19 @@ app.add_handler(CommandHandler("start", start))
 app.add_handler(MessageHandler(filters.TEXT, handle_message))
 
 app.run_polling()
+import gspread
+from oauth2client.service_account import ServiceAccountCredentials
+
+# 1. Setup the connection
+scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
+# Paste your JSON key details here or use a variable
+creds = ServiceAccountCredentials.from_json_keyfile_name('your_key_file.json', scope)
+client = gspread.authorize(creds)
+
+# 2. Open the sheet
+sheet = client.open("Cafe Feedback").sheet1
+
+# 3. Use this function whenever a student submits a rating
+def save_to_sheet(name, food, score, text):
+    sheet.append_row([str(datetime.now()), name, food, score, text])
+
