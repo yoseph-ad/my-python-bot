@@ -8,8 +8,8 @@ from dotenv import load_dotenv
 
 # Load secrets from .env
 load_dotenv()
-TOKEN = os.getenv("TELEGRAM_TOKEN")
-MONGO_URI = os.getenv("MONGO_URI")
+TOKEN = os.getenv("8778871682:AAFCy2u1ZMt7ZdgtAqgv11GlR769AzMOJNE")
+MONGO_URI = os.getenv("mongodb+srv://yosephadugna19_db_user:<db_password>@cluster0.jmcx604.mongodb.net/?appName=Cluster0")
 
 # Connect to MongoDB
 client = MongoClient(MONGO_URI)
