@@ -1,8 +1,7 @@
-python-telegram-bot
-flask
-gspread
-oauth2client
-praw
-google-auth
-
+python-telegram-bot==20.3
+pymongo==4.6.1
+dnspython==2.3.0
+flask==2.3.2
+praw==7.8.0
+google-auth==2.23.0
 
